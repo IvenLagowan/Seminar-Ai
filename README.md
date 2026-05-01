@@ -1,0 +1,2 @@
+# Seminar-Ai
+Latihan
